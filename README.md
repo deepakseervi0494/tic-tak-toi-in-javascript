@@ -26,6 +26,7 @@ CSS3
 JavaScript (Vanilla JS)
 
 📁 Project Structure
+
 ├── index.html
 
 ├── style.css
