@@ -27,12 +27,11 @@ JavaScript (Vanilla JS)
 
 📁 Project Structure
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
-📸 Screenshot
-
-(Add a screenshot of your game here — you can upload an image in GitHub)
 
 🎯 How to Play
 
