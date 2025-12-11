@@ -58,5 +58,6 @@ Add animations or sound effects
 
 
 
-👨‍💻 Auth
+👨‍💻 Author
+
 Deepak Seervi
